@@ -23,7 +23,7 @@ jobs:
 
           # ===== SETTINGAN DI SINI, GANTI SESUKA KAMU =====
           SOURCE_URL = "https://livetv.chairulamri1412.workers.dev"
-          KATEGORI_YANG_DIAMBIL = "EVENT SPORT VISION+"
+          KATEGORI_YANG_DIAMBIL = "EVENT SPORTS VISION+"
           # 👇 GANTI NAMA KATEGORI HASILNYA DI SINI
           NAMA_KATEGORI_BARU = "LIVE EVENT"
           OUTPUT_FILE = "p/epen"
