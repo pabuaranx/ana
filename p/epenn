@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/500/846500-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",🔴 LIVE | Austria Wien vs Bayern [ 20/11/2026 00:40 ]
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=122
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/551/846551-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",🔴 LIVE | Paris vs HB Koge [ 20/11/2026 00:40 ]
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=124
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/458/846458-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Athletic Bilbao vs Espanyol [ 21/11/2026 02:55 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -197,18 +209,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/500/846500-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Austria Wien vs Bayern [ 20/11/2026 00:40 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=122
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/551/846551-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Paris vs HB Koge [ 20/11/2026 00:40 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=124
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/558/846558-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Arsenal vs OL Lyonnes [ 20/11/2026 02:55 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -227,9 +227,3 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=124
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/446/846446-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | FC Schalke 04 vs VFB Stuttgart [ 22/11/2026 00:25 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=0
-================================================================================================================================================================================================================================================================================================================
