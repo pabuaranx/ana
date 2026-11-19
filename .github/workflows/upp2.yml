@@ -1,0 +1,78 @@
+name: Update EPEN 2
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Ambil & Filter Playlist
+        run: |
+          mkdir -p p
+          python3 - << 'PYEOF'
+          import requests, re
+          from collections import Counter
+          SOURCE_URL = "https://livetv.chairulamri1412.workers.dev"
+          NAMA_KATEGORI_BARU = "LIVE EVENT"
+          OUTPUT_FILE = "p/epenn"
+          GANTI_NAMA_AWAL = {
+              "[ 🔴 LIVE ]": "🔴 LIVE | ",
+              "[ UPCOMING ]": "⏳ BELUM MULAI | ",
+          }
+          headers = {"User-Agent": "Mozilla/5.0"}
+          r = requests.get(SOURCE_URL, headers=headers, timeout=30)
+          r.raise_for_status()
+          lines = r.text.splitlines()
+          hasil = ["#EXTM3U"]
+          total = 0
+          buffer_channel = []
+          lagi_nyimpen = False
+          for raw_line in lines:
+              line = raw_line.strip()
+              if not line:
+                  continue
+              if line.startswith("#EXTINF"):
+                  buffer_channel = []
+                  m = re.search(r'group-title="([^"]*)"', line)
+                  grup = m.group(1) if m else ""
+                  grup_lower = grup.lower()
+                  if "event" in grup_lower and "vision" in grup_lower:
+                      line_baru = re.sub(r'group-title="[^"]*"', f'group-title="{NAMA_KATEGORI_BARU}"', line)
+                      if 'group-title=' not in line_baru:
+                          line_baru = line_baru.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{NAMA_KATEGORI_BARU}"')
+                      # Ganti nama awal
+                      for lama, baru in GANTI_NAMA_AWAL.items():
+                          line_baru = line_baru.replace(f'tvg-name="{lama}', f'tvg-name="{baru}')
+                          if "," in line_baru:
+                              depan, nama_channel = line_baru.rsplit(",", 1)
+                              nama_channel_baru = nama_channel.replace(lama, baru).strip()
+                              # Hapus spasi dobel
+                              nama_channel_baru = re.sub(r'\s+', ' ', nama_channel_baru)
+                              line_baru = depan + "," + nama_channel_baru
+                      buffer_channel = [line_baru]
+                      lagi_nyimpen = True
+                  else:
+                      lagi_nyimpen = False
+              elif lagi_nyimpen:
+                  buffer_channel.append(line)
+                  if not line.startswith("#"):
+                      hasil.extend(buffer_channel)
+                      buffer_channel = []
+                      lagi_nyimpen = False
+                      total += 1
+          print(f"Dapet {total} channel")
+          with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(hasil))
+          PYEOF
+      - name: Commit & Push
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "Playlist Bot"
+          git add p/epenn
+          git diff --cached --quiet || git commit -m "Update EPEN - $(date +'%d-%m-%Y %H:%M')"
+          git push
