@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/006/845006-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] PERSIB Bandung vs Shan United FC [ 19/11/2026 18:30 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/012/845012-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] PKR Svay Rieng FC vs Port FC [ 19/11/2026 19:00 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=1002
-https://d43tg978oium5.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/458/846458-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Athletic Bilbao vs Espanyol [ 21/11/2026 02:55 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
