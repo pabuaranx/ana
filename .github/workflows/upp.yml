@@ -1,0 +1,86 @@
+name: Update EPEN
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Update tiap 30 menit, karena event cepet ganti
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Ambil & Filter Playlist
+        run: |
+          mkdir -p p
+          python3 - << 'PYEOF'
+          import requests, re
+
+          # ===== SETTINGAN DI SINI, GANTI SESUKA KAMU =====
+          SOURCE_URL = "https://livetv.chairulamri1412.workers.dev"
+          KATEGORI_YANG_DIAMBIL = "EVENT SPORT VISION+"
+          # 👇 GANTI NAMA KATEGORI HASILNYA DI SINI
+          NAMA_KATEGORI_BARU = "LIVE EVENT"
+          OUTPUT_FILE = "p/epen"
+          # ===============================================
+
+          print(f"Ngambil dari: {SOURCE_URL}")
+          headers = {"User-Agent": "Mozilla/5.0"}
+          r = requests.get(SOURCE_URL, headers=headers, timeout=30)
+          r.raise_for_status()
+          lines = r.text.splitlines()
+
+          hasil = ["#EXTM3U"]
+          total = 0
+          simpan = False
+
+          for line in lines:
+              line = line.strip()
+              if line.startswith("#EXTINF"):
+                  # Cek apakah line ini kategorinya yang kita cari
+                  # Cari group-title="..."
+                  m = re.search(r'group-title="([^"]*)"', line)
+                  grup = m.group(1) if m else ""
+                  
+                  # Cocokin, gak peduli huruf besar/kecil
+                  if KATEGORI_YANG_DIAMBIL.lower() in grup.lower():
+                      # Ganti nama kategorinya
+                      line_baru = re.sub(
+                          r'group-title="[^"]*"',
+                          f'group-title="{NAMA_KATEGORI_BARU}"',
+                          line
+                      )
+                      # Kalau ternyata gak ada group-title-nya, tambahin
+                      if 'group-title=' not in line_baru:
+                          line_baru = line_baru.replace('#EXTINF:-1', f'#EXTINF:-1 group-title="{NAMA_KATEGORI_BARU}"')
+                      
+                      hasil.append(line_baru)
+                      simpan = True
+                      total += 1
+                  else:
+                      simpan = False
+              elif simpan and line and not line.startswith("#"):
+                  # Ini baris URL-nya, ikut kesimpen
+                  hasil.append(line)
+                  simpan = False
+              elif line.startswith("#EXTM3U"):
+                  continue
+
+          print(f"Dapet {total} channel dari kategori {KATEGORI_YANG_DIAMBIL}")
+
+          with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+              f.write("\n".join(hasil))
+          PYEOF
+
+      - name: Commit & Push
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "P Bot"
+          git add p/epen
+          git diff --cached --quiet || git commit -m "Update EVENT - $(date +'%d-%m-%Y %H:%M')"
+          git push
