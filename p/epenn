@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/314/845314-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",🔴 LIVE | Repsol Grand Prix of Portugal - Free Practice 1 [ 20/11/2026 15:55 ]
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=120
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/458/846458-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Athletic Bilbao vs Espanyol [ 21/11/2026 02:55 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -137,12 +143,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=1002
 https://d43tg978oium5.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/314/845314-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Repsol Grand Prix of Portugal - Free Practice 1 [ 20/11/2026 15:55 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/298/845298-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",⏳ BELUM MULAI | Repsol Grand Prix of Portugal - Practice [ 20/11/2026 20:10 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
