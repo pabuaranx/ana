@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/250/845250-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] Korea ex Corp vs IBK Altos [ 20/11/2026 17:00 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=112
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/273/845273-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] Hyundai Skywalkers vs KEPCO [ 20/11/2026 17:00 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/314/845314-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] Repsol Grand Prix of Portugal - Free Practice 1 [ 20/11/2026 15:55 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/458/846458-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Athletic Bilbao vs Espanyol [ 21/11/2026 02:55 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -125,6 +107,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/100/848100-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Jungkwanjang vs GS Caltex [ 24/11/2026 17:00 ]
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/403/846403-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Heineken Las Vegas Grand Prix 2026 - Practice 3 [ 21/11/2026 07:25 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
