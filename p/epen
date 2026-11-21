@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/038/848038-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] Macau Grand Prix 2026 - Qualifying Race [ 21/11/2026 13:00 ]
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/054/848054-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ 🔴 LIVE ] Macau Grand Prix 2026 - Qualifying Race [ 21/11/2026 15:00 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -137,12 +137,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=122
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/054/848054-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Macau Grand Prix 2026 - Qualifying Race [ 21/11/2026 15:00 ]
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/testing/vplus/widevine?id=115
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 #EXTINF:-1 tvg-id="115" tvg-logo="https://www.visionplus.id/images/repository/087/848087-SNAPSHOT-xl.jpg" group-title="LIVE EVENT", [ UPCOMING ] Macau Grand Prix 2026 - Main Race [ 22/11/2026 08:00 ]
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
