@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/745/848745-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[25/11 17:00 WIB] Korean V-League 2026/27 - KEPCO vs Hyundai Skywalkers
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/745/848745-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] Korean V-League 2026/27 - KEPCO vs Hyundai Skywalkers
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=113
@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/765/848765-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[25/11 17:00 WIB] Korean V-League 2026/27 - IBK Altos vs Korea ex Corp
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/765/848765-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] Korean V-League 2026/27 - IBK Altos vs Korea ex Corp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=112
@@ -111,6 +111,46 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/228/851228-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 00:40 WIB] UEFA Europa League 2026/27 - Celta Vigo vs Bournemouth
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/242/851242-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 00:40 WIB] UEFA Europa League 2026/27 - Olympiacos vs Milan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/259/851259-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 02:55 WIB] UEFA Europa League 2026/27 - Crystal Palace vs Real Sociedad
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/276/851276-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 02:55 WIB] UEFA Europa League 2026/27 - Juventus vs Omonoia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/292/851292-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 02:55 WIB] UEFA Europa League 2026/27 - Sunderland vs Jagiellonia Bialystok
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=124
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/074/850074-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 05:00 WIB] Premier Padel 2026 - Mexico Major - Day 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
