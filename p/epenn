@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/871/848871-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] Korean V-League 2026/27 - Wooricard vs Samsung Bluefangs
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=113
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/766/850766-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] Korean V-League 2026/27 - Hyundai Hillstate vs Soop
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=112
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/215/851215-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[26/11 19:15 WIB] AFC Champions League Elite 2026/27 - Preah Khan Reach Svay Rieng FC (CAM) vs FC Machida Zelvia (JPN)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/215/851215-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] AFC Champions League Elite 2026/27 - Preah Khan Reach Svay Rieng FC (CAM) vs FC Machida Zelvia (JPN)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=1002
