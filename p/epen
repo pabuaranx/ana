@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/077/850077-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] UEFA Conference League 2025/26 - Kairat vs Mjallby
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/228/851228-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] UEFA Europa League 2026/27 - Celta Vigo vs Bournemouth
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
@@ -7,15 +7,7 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/228/851228-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 00:40 WIB] UEFA Europa League 2026/27 - Celta Vigo vs Bournemouth
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/242/851242-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 00:40 WIB] UEFA Europa League 2026/27 - Olympiacos vs Milan
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/242/851242-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] UEFA Europa League 2026/27 - Olympiacos vs Milan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=124
@@ -23,7 +15,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/435/851435-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 00:40 WIB] UEFA Conference League 2025/26 - Brighton vs Craiova
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/435/851435-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] UEFA Conference League 2025/26 - Brighton vs Craiova
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=123
