@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/501/852501-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[27/11 14:55 WIB] MotoGP 2026 - Motul Grand Prix of Valencia - Free Practice 1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/501/852501-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[LIVE] MotoGP 2026 - Motul Grand Prix of Valencia - Free Practice 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=120
@@ -79,14 +79,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/622/852622-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 05:00 WIB] Premier Padel 2026 - Mexico Major
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=124
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/838/851838-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 12:00 WIB] Korean V-League 2026/27 - OK Savingsbank vs KEPCO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -127,14 +119,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/557/852557-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 18:40 WIB] MotoGP 2026 - Grand Prix of Valencia - Qualifying
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/140/853140-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 19:10 WIB] ROSHN Saudi League 2026/27 - Al Hazem vs Al Nassr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=119
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/343/852343-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 19:55 WIB] LaLiga 2026/27 - Real Betis vs Rayo Vallecano
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -143,6 +135,22 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/567/852567-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 20:30 WIB] MotoGP 2026 - Motul Grand Prix of Valencia - Sprint
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=120
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/121/853121-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 21:15 WIB] ROSHN Saudi League 2026/27 - Al Ettifaq vs Al Hilal
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=119
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/832/851832-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 21:25 WIB] Formula 1 : 2026 - Qatar Airways Qatar Grand Prix - Practice 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,6 +168,22 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/607/852607-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[28/11 23:10 WIB] FIA Formula Championship 2026 - Lusail,Qatar - Sprint
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/155/853155-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[29/11 00:25 WIB] ROSHN Saudi League 2026/27 - Al Ahli vs Al Taawoun
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=119
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/164/853164-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[29/11 00:55 WIB] Formula 1 : 2026 - Qatar Airways Qatar Grand Prix - Qualifying
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
@@ -199,3 +223,27 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/771/596771-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[29/11 21:30 WIB] Formula 1 : 2026 - Qatar Airways Qatar Grand Prix - Grand Prix Sunday
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/786/596786-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[29/11 22:55 WIB] Formula 1 : 2026 - Qatar Airways Qatar Grand Prix - Race
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/184/853184-SNAPSHOT-xl.jpg" group-title="LIVE EVENT",[30/11 01:00 WIB] Formula 1 : 2026 - Qatar Airways Qatar Grand Prix - Chequered Flag
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cindodev.co-id.id/amritv/widevine?id=122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-origin=https://www.rctiplus.com
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
